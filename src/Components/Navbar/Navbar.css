@@ -1,0 +1,18 @@
+.cart-logo{
+    
+    padding-right: 2em;
+    padding-left: 1em;
+}
+
+h3{
+    padding-top: 0.5em;
+}
+
+.menu-items{
+    color: black;
+}
+
+.cart-count {
+    color: white;
+     background-color: red;
+}

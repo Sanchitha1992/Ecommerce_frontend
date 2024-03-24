@@ -1,0 +1,8 @@
+.popularItems{
+    padding-top: 3em;
+}
+.popularItems h3{
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+}

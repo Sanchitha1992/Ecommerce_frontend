@@ -1,0 +1,44 @@
+.col-lg-6 {
+   
+    height: 35em;
+    text-align: left;
+    align-content: center;
+    padding-left: 6em;
+}
+
+.left-panel{
+    padding-top: 4em; 
+}
+
+.new-collection{
+    font-size: 0.5cm;
+    font-weight: bold;
+}
+
+.other-text{
+    font-size: 3cm;
+    font-weight: bold;
+}
+
+p{
+    text-align: left;
+}
+
+.hand-icon {
+    width: 50px;
+}
+
+.latest-Collec{
+    margin-top: 2em;
+    background-color: red;
+    color:white;
+}
+.right-Arrow{
+    margin-left: 0.5em;
+}
+
+.home_image {
+    width: 460px;
+    padding-left: 3em;
+    
+}

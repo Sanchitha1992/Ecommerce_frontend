@@ -1,0 +1,18 @@
+.prod_images{
+    width: 220px;
+}
+
+.prod_name{
+    font-size: small;
+    font-weight: 500;
+}
+.old_price{
+    text-decoration: line-through;
+    color: gray;
+    margin-left: 0.5em;
+}
+.prod_price {
+    font-size: small;
+    font-weight: bold;
+    margin-top: -0.5em;
+}
