@@ -4,7 +4,9 @@ import handicon from "../Assets/hand_icon.png";
 import rightArrow from "../Assets/arrow.png";
 import home_image from "../Assets/hero_image.png";
 import { PopularItems } from '../PopularItems/PopularItems';
-import { Offers } from '../../Offers/Offers';
+import { Offers } from '../Offers/Offers';
+import { NewCollections } from '../NewCollections/NewCollections';
+import { NewsLetter } from '../NewsLetter/NewsLetter';
 
 export const Home = () => {
   return (
@@ -24,13 +26,15 @@ export const Home = () => {
                 <img className= "home_image" src={home_image}/>
             </div>
         </div>
+        <hr></hr>
         <PopularItems />
-        <div className="row">
-            <div className='col-lg-12'>
-                <Offers />
-            </div>
-        </div>
-
+        <div className="empty row"></div>
+        <hr></hr>
+        <Offers />
+        <hr></hr>
+        <NewCollections />
+        <hr></hr>
+        <NewsLetter />
     </div>
   )
 }
