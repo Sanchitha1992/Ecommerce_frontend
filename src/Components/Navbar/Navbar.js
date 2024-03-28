@@ -9,8 +9,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 export const Navbar = (props) => {
   return (
     <nav className="navbar navbar-default" style={{backgroundColor: "#C5C6C7"}}>
-      <div className = "nav navbar-header">
-        
+      <div className = "nav navbar-header"> 
         <img src={logo}></img>
         <h3>SHOP ONLINE</h3>
       </div>

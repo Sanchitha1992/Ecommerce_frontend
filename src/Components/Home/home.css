@@ -1,13 +1,8 @@
-.col-lg-6 {
-   
+.left-panel{
+    padding-top: 10em;
+    align-content: center;
     height: 35em;
     text-align: left;
-    align-content: center;
-    padding-left: 6em;
-}
-
-.left-panel{
-    padding-top: 4em; 
 }
 
 .new-collection{
@@ -18,10 +13,6 @@
 .other-text{
     font-size: 3cm;
     font-weight: bold;
-}
-
-p{
-    text-align: left;
 }
 
 .hand-icon {

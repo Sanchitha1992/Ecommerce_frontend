@@ -1,0 +1,27 @@
+.footer {
+    padding-top: 5em;
+}
+.footerItems {
+    align-items: center;
+    margin-left: 13em;
+}
+.footerItems ul li{
+    padding-right: 1em;
+}
+
+.footerIcons {
+    margin-left: 20.5em;
+}
+.footerIcons ul li{
+    padding-right: 1em;
+}
+
+.instaIcon {
+    width: 20px;
+}
+.pintesterIcon {
+    width: 20px;
+}
+.whatsappIcon {
+    width: 20px;
+}

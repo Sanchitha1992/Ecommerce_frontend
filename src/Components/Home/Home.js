@@ -35,6 +35,7 @@ export const Home = () => {
         <NewCollections />
         <hr></hr>
         <NewsLetter />
+        
     </div>
   )
 }

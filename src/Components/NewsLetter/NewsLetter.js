@@ -3,7 +3,7 @@ import "./newsLetter.css"
 
 export const NewsLetter = () => {
   return (
-    <div className ="row">
+    <div className ="newsletter row">
         <div className='col-lg-3'></div>
         <div className='col-lg-6'>
             <h1>Get Exclusive Offers on your Email</h1>
